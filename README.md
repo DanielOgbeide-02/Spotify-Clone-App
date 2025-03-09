@@ -26,7 +26,6 @@ Backend: Firebase
 
 Database: Firestore
 
-Screenshots 📸
 
 Status 📌
 
@@ -36,5 +35,5 @@ Live Demo 🌍
 
 Coming Soon
 ________________________________________
-Note: Project is on the main branch.
+Note: Project is on the master branch.
 
