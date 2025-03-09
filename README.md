@@ -38,6 +38,5 @@ Status 📌
 Live Demo 🌍
 
 Coming Soon
-________________________________________
-Note: Project is on the main branch.
+
 
